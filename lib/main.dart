@@ -52,6 +52,13 @@ class UserProfileScreen extends StatelessWidget {
       'email': 'arponjolas@gmail.com',
       'image': 'https://scontent.fmnl13-1.fna.fbcdn.net/v/t39.30808-1/476495148_1419939806051401_4269933969384659569_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=100&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeEvt9YcqR_vgJFxN9k02KRhsd6QqOHtzMex3pCo4e3Mx7mxdTQTEkl1iivlLLNx_TlMMmLWCj00QtBQN5vExF0x&_nc_ohc=M0ORObtMQrAQ7kNvgFeeTC1&_nc_oc=AdgTTc2hREmsZwx3fan-OK3PKrK30s4H_7aU88yNn4YO7APnDQzqydAiGPkfNlNn1oU&_nc_zt=24&_nc_ht=scontent.fmnl13-1.fna&_nc_gid=AONP2iCxH77KVxVuIxQCdua&oh=00_AYDHnvqKo4FuDUIqL75bDrPVBkfI2x8_dHTol1UrMbhMrg&oe=67B328ED',
     },
+    {
+      'name': 'Kayle Cedric Larin',
+      'address': 'San Luis, Pampanga',
+      'phone': '0949975444',
+      'email': 'larinkaylecedric@gmail.com',
+      'image': 'https://scontent.fmnl13-3.fna.fbcdn.net/v/t39.30808-1/422874731_1363549171192384_1006331762063123531_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=102&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeHQn50H28VboykH4Hm-OsZdA__VYeUhRkoD_9Vh5SFGSoyVYhqorzyp6HEucq40I9mDo0kMiADb3iRfam6t0fcX&_nc_ohc=3yubaec_lywQ7kNvgGyAMi6&_nc_oc=AdiIVz6-ume9D9CvbZorMn7Q1mboJiV55-3a6K3wy-jZrXp0tEGQabtpi_Fp40JGKrk&_nc_zt=24&_nc_ht=scontent.fmnl13-3.fna&_nc_gid=AojQJRcRQkyRxWEw5sNJ876&oh=00_AYCqRWcJ7MHVyzNfmkqSRrBp84ew-2vBMy5OkZiRxawlJA&oe=67B3402E',
+    },
   ];
 
   @override
