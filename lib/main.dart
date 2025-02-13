@@ -32,6 +32,13 @@ class UserProfileScreen extends StatelessWidget {
       'image': 'https://scontent.fmnl13-1.fna.fbcdn.net/v/t39.30808-1/476800186_2534566823405634_5152775271712346789_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=103&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeG5f5zmIgv8ZuSvrh8MVl_hd4OLjx3feql3g4uPHd96qZKWH_nTywWv_kh2XKwifxQ28D6oF1sAwjVKzQBAJ-oB&_nc_ohc=ut9IdVWprrwQ7kNvgH9_-Q_&_nc_oc=AdhV7XaDSGFnKHZmwbSbIQLgiYKwBQWCN7P1fCzacqcDTM4jhwGWn8IPfjJOC-0uQdw&_nc_zt=24&_nc_ht=scontent.fmnl13-1.fna&_nc_gid=AfHTSN1XLYOLZyv2nz8aFYb&oh=00_AYBOn6fosR7ntKgOIvksiFGoQbh_7vasxqpbmWxsyF3rfw&oe=67B32AEB',
     },
      {
+      'name': 'Rachelle Macalino',
+      'address': 'Arayat, Pampanga',
+      'phone': '09546864793',
+      'email': 'rachellemacalino@gmail.com',
+      'image': 'https://scontent.fmnl13-1.fna.fbcdn.net/v/t39.30808-1/445004182_2183311248680506_7850881638170803563_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeGnql_w_KBceJ1CdrMkzlDrff_nrzYW6Gl9_-evNhboaacujZSNczRdgsf0YCFAIPGJpbmk3AUh3edVxiP-pEGj&_nc_ohc=V-yrK5mwxQYQ7kNvgFl7Iix&_nc_oc=AdiWl17vuKfdCRNQWjVG1Lkf-n3xdnOPcLoM9HK45SNquA-8k9kZ3HChV2gqXsq9u-0&_nc_zt=24&_nc_ht=scontent.fmnl13-1.fna&_nc_gid=A8SJpLr2a6qP_ujz5Cssu0t&oh=00_AYCAtsYS9dWnl7bDFcZ4lh0h_KtIdbT4tzerxz8tBERiWA&oe=67B33A4C',
+    },
+    {
       'name': 'Romel Gamboa',
       'address': 'Sta.ANA, Pampanga',
       'phone': '0678656864793',
