@@ -45,6 +45,13 @@ class UserProfileScreen extends StatelessWidget {
       'email': 'gamboaromel@gmail.com',
       'image': 'https://scontent.fmnl13-4.fna.fbcdn.net/v/t39.30808-1/479494196_9512036862191582_4661220378301324892_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=107&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeHmc4Qma-L2I6tokQAU1yrKj14v1fvUl_KPXi_V-9SX8m9J2a_e8_Ggji6V1L_ol6_YO17zKzo_Ck6Cg1auiDOt&_nc_ohc=tABHnguydxUQ7kNvgFyg4NQ&_nc_oc=AdjgpMgmaj6OHdK3icoJB1ARdQR0Q5qivk1_-BSVZhPj6vJUGhZnCHoYsIf5wycdiz8&_nc_zt=24&_nc_ht=scontent.fmnl13-4.fna&_nc_gid=AyN87ONowqBOkRwh_4ybkKo&oh=00_AYDXuAjq3avHp11VsbX6fNkdekj_oifFjNROBK5PWcc7Jw&oe=67B33DED',
     },
+     {
+      'name': 'Jolas Arpon',
+      'address': 'Sta.ANA, Pampanga',
+      'phone': '0945464793',
+      'email': 'arponjolas@gmail.com',
+      'image': 'https://scontent.fmnl13-1.fna.fbcdn.net/v/t39.30808-1/476495148_1419939806051401_4269933969384659569_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=100&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeEvt9YcqR_vgJFxN9k02KRhsd6QqOHtzMex3pCo4e3Mx7mxdTQTEkl1iivlLLNx_TlMMmLWCj00QtBQN5vExF0x&_nc_ohc=M0ORObtMQrAQ7kNvgFeeTC1&_nc_oc=AdgTTc2hREmsZwx3fan-OK3PKrK30s4H_7aU88yNn4YO7APnDQzqydAiGPkfNlNn1oU&_nc_zt=24&_nc_ht=scontent.fmnl13-1.fna&_nc_gid=AONP2iCxH77KVxVuIxQCdua&oh=00_AYDHnvqKo4FuDUIqL75bDrPVBkfI2x8_dHTol1UrMbhMrg&oe=67B328ED',
+    },
   ];
 
   @override
